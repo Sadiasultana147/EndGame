@@ -1,0 +1,29 @@
+
+.body{
+    background-image: linear-gradient(#bdc3c7,#2c3e50);
+   
+}
+.box{
+    box-shadow: 6px 6px 6px 6px ;
+    
+}
+
+.register{
+    box-shadow: 4px 4px 4px 4px;
+    font-size: 20px;
+    font-weight: 200px;
+    font-style: italic;
+}
+
+.form{
+    box-shadow: 4px 4px 4px 5px;
+}
+.google{
+    border-radius: 10px;
+    padding:5px;
+    font-size: 20px;
+    font-weight: 200px;
+}
+
+
+
